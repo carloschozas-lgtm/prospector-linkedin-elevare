@@ -1,0 +1,172 @@
+Name: models/gemini-2.5-flash
+Display Name: Gemini 2.5 Flash
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.5-pro
+Display Name: Gemini 2.5 Pro
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.0-flash
+Display Name: Gemini 2.0 Flash
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.0-flash-001
+Display Name: Gemini 2.0 Flash 001
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.0-flash-exp-image-generation
+Display Name: Gemini 2.0 Flash (Image Generation) Experimental
+Supported Methods: ['generateContent', 'countTokens', 'bidiGenerateContent']
+--------------------
+Name: models/gemini-2.0-flash-lite-001
+Display Name: Gemini 2.0 Flash-Lite 001
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.0-flash-lite
+Display Name: Gemini 2.0 Flash-Lite
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.5-flash-preview-tts
+Display Name: Gemini 2.5 Flash Preview TTS
+Supported Methods: ['countTokens', 'generateContent']
+--------------------
+Name: models/gemini-2.5-pro-preview-tts
+Display Name: Gemini 2.5 Pro Preview TTS
+Supported Methods: ['countTokens', 'generateContent', 'batchGenerateContent']
+--------------------
+Name: models/gemma-3-1b-it
+Display Name: Gemma 3 1B
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemma-3-4b-it
+Display Name: Gemma 3 4B
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemma-3-12b-it
+Display Name: Gemma 3 12B
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemma-3-27b-it
+Display Name: Gemma 3 27B
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemma-3n-e4b-it
+Display Name: Gemma 3n E4B
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemma-3n-e2b-it
+Display Name: Gemma 3n E2B
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemini-flash-latest
+Display Name: Gemini Flash Latest
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-flash-lite-latest
+Display Name: Gemini Flash-Lite Latest
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-pro-latest
+Display Name: Gemini Pro Latest
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.5-flash-lite
+Display Name: Gemini 2.5 Flash-Lite
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.5-flash-image
+Display Name: Nano Banana
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------
+Name: models/gemini-2.5-flash-lite-preview-09-2025
+Display Name: Gemini 2.5 Flash-Lite Preview Sep 2025
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-3-pro-preview
+Display Name: Gemini 3 Pro Preview
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-3-flash-preview
+Display Name: Gemini 3 Flash Preview
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-3.1-pro-preview
+Display Name: Gemini 3.1 Pro Preview
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-3.1-pro-preview-customtools
+Display Name: Gemini 3.1 Pro Preview Custom Tools
+Supported Methods: ['generateContent', 'countTokens', 'createCachedContent', 'batchGenerateContent']
+--------------------
+Name: models/gemini-3-pro-image-preview
+Display Name: Nano Banana Pro
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------
+Name: models/nano-banana-pro-preview
+Display Name: Nano Banana Pro
+Supported Methods: ['generateContent', 'countTokens', 'batchGenerateContent']
+--------------------
+Name: models/gemini-robotics-er-1.5-preview
+Display Name: Gemini Robotics-ER 1.5 Preview
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemini-2.5-computer-use-preview-10-2025
+Display Name: Gemini 2.5 Computer Use Preview 10-2025
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/deep-research-pro-preview-12-2025
+Display Name: Deep Research Pro Preview (Dec-12-2025)
+Supported Methods: ['generateContent', 'countTokens']
+--------------------
+Name: models/gemini-embedding-001
+Display Name: Gemini Embedding 001
+Supported Methods: ['embedContent', 'countTextTokens', 'countTokens', 'asyncBatchEmbedContent']
+--------------------
+Name: models/aqa
+Display Name: Model that performs Attributed Question Answering.
+Supported Methods: ['generateAnswer']
+--------------------
+Name: models/imagen-4.0-generate-001
+Display Name: Imagen 4
+Supported Methods: ['predict']
+--------------------
+Name: models/imagen-4.0-ultra-generate-001
+Display Name: Imagen 4 Ultra
+Supported Methods: ['predict']
+--------------------
+Name: models/imagen-4.0-fast-generate-001
+Display Name: Imagen 4 Fast
+Supported Methods: ['predict']
+--------------------
+Name: models/veo-2.0-generate-001
+Display Name: Veo 2
+Supported Methods: ['predictLongRunning']
+--------------------
+Name: models/veo-3.0-generate-001
+Display Name: Veo 3
+Supported Methods: ['predictLongRunning']
+--------------------
+Name: models/veo-3.0-fast-generate-001
+Display Name: Veo 3 fast
+Supported Methods: ['predictLongRunning']
+--------------------
+Name: models/veo-3.1-generate-preview
+Display Name: Veo 3.1
+Supported Methods: ['predictLongRunning']
+--------------------
+Name: models/veo-3.1-fast-generate-preview
+Display Name: Veo 3.1 fast
+Supported Methods: ['predictLongRunning']
+--------------------
+Name: models/gemini-2.5-flash-native-audio-latest
+Display Name: Gemini 2.5 Flash Native Audio Latest
+Supported Methods: ['countTokens', 'bidiGenerateContent']
+--------------------
+Name: models/gemini-2.5-flash-native-audio-preview-09-2025
+Display Name: Gemini 2.5 Flash Native Audio Preview 09-2025
+Supported Methods: ['countTokens', 'bidiGenerateContent']
+--------------------
+Name: models/gemini-2.5-flash-native-audio-preview-12-2025
+Display Name: Gemini 2.5 Flash Native Audio Preview 12-2025
+Supported Methods: ['countTokens', 'bidiGenerateContent']
+--------------------
